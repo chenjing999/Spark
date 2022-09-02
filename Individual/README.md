@@ -1,3 +1,16 @@
+# Spark
+
+Spark MLlib and Spark ML are libraries that support scalable machine learning and data mining algorithms such as classification, clustering, collaborative filtering and frequent pattern mining. 
+
+Implement the program that apply Spark's Decision Tree algorithm to the provided Sensorless_drive_diagnosis dataset.
+
+### Dependencies
+   1. Hadoop
+   2. Spark
+   3. Java8
+
+### How to install and run
+
 These install and run steps are applicable to Decision Tree by using different inut .csv files. 
 
 Step 1: Upload relevant files and to the working folder
