@@ -4,7 +4,7 @@ Spark MLlib and Spark ML are libraries that support scalable machine learning an
 
 Implement the program that apply Spark's Decision Tree algorithm to the provided Sensorless_drive_diagnosis dataset.
 
-### Dependencies
+### Dependencies 
    1. Hadoop
    2. Spark
    3. Java8
